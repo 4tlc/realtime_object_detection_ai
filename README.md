@@ -1,1 +1,1 @@
-### This is a deep learning project for tetris.
+### Deep Learning Project To Learn Tetris
